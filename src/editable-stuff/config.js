@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Aman Agarwal. I am an aspiring software development engineer doing my undergrad in computer science engineering.A self taught Full-Stack developer , now upskilling my interests in cloud-native and devops.",
-  resume: "https://docs.google.com/document/d/1Yn63YyaH8j79C2QLglU8icfGbstEQx6w6CyxsMOwHdk/edit?usp=sharing",
+  resume: "https://drive.google.com/file/d/1PXCCH5JkyVKs9vec7Fxj7f730N8dYkYQ/view?usp=sharing",
 };
 
 // PROJECTS SECTION
