@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Aman",
   middleName: "",
   lastName: "Agarwal",
-  message: " Developer | Wanderer | Photographer | Artist ",
+  message: " Developer | Wanderer ",
   icons: [
     {
       image: "fa-github",
@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/amanagarwal.jpg"),
   imageSize: 375,
   message:
-    "My name is Aman Agarwal. I am an aspiring software development engineer doing my undergrad in computer science engineering.A self taught Full-Stack developer , now upskilling my interests in cloud-native and devops.",
+    "My name is Aman Agarwal. I am an aspiring software development engineer doing my undergrad in computer science engineering. A self taught Full-Stack developer , now upskilling my interests in web 3.",
   resume: "https://drive.google.com/file/d/1PXCCH5JkyVKs9vec7Fxj7f730N8dYkYQ/view?usp=sharing",
 };
 
@@ -126,7 +126,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Devops opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "amanagarwalx123@gmail.com",
 };
 
@@ -136,12 +136,12 @@ const experiences = {
   data: [
     {
       role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
+      //companylogo: require('../assets/img/'),
       date: 'June 2018 – Present',
     },
     {
       role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
+      //companylogo: require('../assets/img/'),
       date: 'May 2017 – May 2018',
     },
   ]
