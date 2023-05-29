@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/amanagarwal.jpg"),
   imageSize: 375,
   message:
-    "My name is Aman Agarwal. I am an aspiring software development engineer doing my undergrad in computer science engineering. A self taught Full-Stack developer , now upskilling my interests in web 3.",
+    "My name is Aman Agarwal. I am a full stack engineer with a Bachelors in computer science engineering. I am an active open source contributor who likes to talk about advancements in machine learning and web3.",
   resume: "https://drive.google.com/file/d/1PXCCH5JkyVKs9vec7Fxj7f730N8dYkYQ/view?usp=sharing",
 };
 
